@@ -7,3 +7,4 @@
 ## French fries
 # sliced potatoes
 # oil
+# add potatoes to the oil

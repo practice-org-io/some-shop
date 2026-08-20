@@ -1,6 +1,6 @@
-#Some shop
+# Some shop
 
-##Crispy chips
+## Crispy chips
 # potatoes
 # flavouring
 

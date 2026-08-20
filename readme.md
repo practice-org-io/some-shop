@@ -1,5 +1,8 @@
 #Some shop
 
-##Crispy-chips
+##Crispy chips
 # potatoes
 # flavouring
+
+## French fries
+# sliced potatoes

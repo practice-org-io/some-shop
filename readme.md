@@ -8,3 +8,7 @@
 ### sliced potatoes
 ### oil
 ### add potatoes to the oil
+
+# Chocolate cake
+### flour
+### cocoa powder

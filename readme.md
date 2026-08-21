@@ -1,10 +1,10 @@
 # Some shop
 
-## Crispy chips
+#### Crispy chips
 # potatoes
 # flavouring
 
-## French fries
+#### French fries
 # sliced potatoes
 # oil
 # add potatoes to the oil
